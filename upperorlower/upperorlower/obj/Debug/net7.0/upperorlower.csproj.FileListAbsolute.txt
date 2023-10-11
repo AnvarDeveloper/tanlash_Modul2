@@ -1,0 +1,15 @@
+D:\C# code\tanlash_Modul2\upperorlower\upperorlower\bin\Debug\net7.0\upperorlower.exe
+D:\C# code\tanlash_Modul2\upperorlower\upperorlower\bin\Debug\net7.0\upperorlower.deps.json
+D:\C# code\tanlash_Modul2\upperorlower\upperorlower\bin\Debug\net7.0\upperorlower.runtimeconfig.json
+D:\C# code\tanlash_Modul2\upperorlower\upperorlower\bin\Debug\net7.0\upperorlower.dll
+D:\C# code\tanlash_Modul2\upperorlower\upperorlower\bin\Debug\net7.0\upperorlower.pdb
+D:\C# code\tanlash_Modul2\upperorlower\upperorlower\obj\Debug\net7.0\upperorlower.csproj.AssemblyReference.cache
+D:\C# code\tanlash_Modul2\upperorlower\upperorlower\obj\Debug\net7.0\upperorlower.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# code\tanlash_Modul2\upperorlower\upperorlower\obj\Debug\net7.0\upperorlower.AssemblyInfoInputs.cache
+D:\C# code\tanlash_Modul2\upperorlower\upperorlower\obj\Debug\net7.0\upperorlower.AssemblyInfo.cs
+D:\C# code\tanlash_Modul2\upperorlower\upperorlower\obj\Debug\net7.0\upperorlower.csproj.CoreCompileInputs.cache
+D:\C# code\tanlash_Modul2\upperorlower\upperorlower\obj\Debug\net7.0\upperorlower.dll
+D:\C# code\tanlash_Modul2\upperorlower\upperorlower\obj\Debug\net7.0\refint\upperorlower.dll
+D:\C# code\tanlash_Modul2\upperorlower\upperorlower\obj\Debug\net7.0\upperorlower.pdb
+D:\C# code\tanlash_Modul2\upperorlower\upperorlower\obj\Debug\net7.0\upperorlower.genruntimeconfig.cache
+D:\C# code\tanlash_Modul2\upperorlower\upperorlower\obj\Debug\net7.0\ref\upperorlower.dll

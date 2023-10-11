@@ -1,0 +1,15 @@
+D:\C# code\tanlash_Modul2\switch\switch\bin\Debug\net7.0\switch.exe
+D:\C# code\tanlash_Modul2\switch\switch\bin\Debug\net7.0\switch.deps.json
+D:\C# code\tanlash_Modul2\switch\switch\bin\Debug\net7.0\switch.runtimeconfig.json
+D:\C# code\tanlash_Modul2\switch\switch\bin\Debug\net7.0\switch.dll
+D:\C# code\tanlash_Modul2\switch\switch\bin\Debug\net7.0\switch.pdb
+D:\C# code\tanlash_Modul2\switch\switch\obj\Debug\net7.0\switch.csproj.AssemblyReference.cache
+D:\C# code\tanlash_Modul2\switch\switch\obj\Debug\net7.0\switch.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# code\tanlash_Modul2\switch\switch\obj\Debug\net7.0\switch.AssemblyInfoInputs.cache
+D:\C# code\tanlash_Modul2\switch\switch\obj\Debug\net7.0\switch.AssemblyInfo.cs
+D:\C# code\tanlash_Modul2\switch\switch\obj\Debug\net7.0\switch.csproj.CoreCompileInputs.cache
+D:\C# code\tanlash_Modul2\switch\switch\obj\Debug\net7.0\switch.dll
+D:\C# code\tanlash_Modul2\switch\switch\obj\Debug\net7.0\refint\switch.dll
+D:\C# code\tanlash_Modul2\switch\switch\obj\Debug\net7.0\switch.pdb
+D:\C# code\tanlash_Modul2\switch\switch\obj\Debug\net7.0\switch.genruntimeconfig.cache
+D:\C# code\tanlash_Modul2\switch\switch\obj\Debug\net7.0\ref\switch.dll

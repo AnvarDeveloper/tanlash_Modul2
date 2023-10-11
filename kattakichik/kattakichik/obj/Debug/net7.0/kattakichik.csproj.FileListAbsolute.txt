@@ -1,0 +1,15 @@
+D:\C# code\tanlash_Modul2\kattakichik\kattakichik\bin\Debug\net7.0\kattakichik.exe
+D:\C# code\tanlash_Modul2\kattakichik\kattakichik\bin\Debug\net7.0\kattakichik.deps.json
+D:\C# code\tanlash_Modul2\kattakichik\kattakichik\bin\Debug\net7.0\kattakichik.runtimeconfig.json
+D:\C# code\tanlash_Modul2\kattakichik\kattakichik\bin\Debug\net7.0\kattakichik.dll
+D:\C# code\tanlash_Modul2\kattakichik\kattakichik\bin\Debug\net7.0\kattakichik.pdb
+D:\C# code\tanlash_Modul2\kattakichik\kattakichik\obj\Debug\net7.0\kattakichik.csproj.AssemblyReference.cache
+D:\C# code\tanlash_Modul2\kattakichik\kattakichik\obj\Debug\net7.0\kattakichik.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# code\tanlash_Modul2\kattakichik\kattakichik\obj\Debug\net7.0\kattakichik.AssemblyInfoInputs.cache
+D:\C# code\tanlash_Modul2\kattakichik\kattakichik\obj\Debug\net7.0\kattakichik.AssemblyInfo.cs
+D:\C# code\tanlash_Modul2\kattakichik\kattakichik\obj\Debug\net7.0\kattakichik.csproj.CoreCompileInputs.cache
+D:\C# code\tanlash_Modul2\kattakichik\kattakichik\obj\Debug\net7.0\kattakichik.dll
+D:\C# code\tanlash_Modul2\kattakichik\kattakichik\obj\Debug\net7.0\refint\kattakichik.dll
+D:\C# code\tanlash_Modul2\kattakichik\kattakichik\obj\Debug\net7.0\kattakichik.pdb
+D:\C# code\tanlash_Modul2\kattakichik\kattakichik\obj\Debug\net7.0\kattakichik.genruntimeconfig.cache
+D:\C# code\tanlash_Modul2\kattakichik\kattakichik\obj\Debug\net7.0\ref\kattakichik.dll
